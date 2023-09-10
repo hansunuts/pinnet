@@ -1,0 +1,7 @@
+data-path: /home/han/Projects/PinNet_Paper/pinnet/sample_data/
+name: dataset_kp3d_det
+res-h: 480
+res-w: 640
+test-file: /home/han/Projects/PinNet_Paper/pinnet/sample_data/test_plane.txt
+train-file: 
+val-file: 

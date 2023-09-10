@@ -1,0 +1,4 @@
+name: loss_kp_sparsity_loss
+weight: 1.0
+sal_y_thr: 0.3
+good_sal_y_ratio: 0.1

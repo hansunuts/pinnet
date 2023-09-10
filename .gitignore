@@ -1,0 +1,59 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment directories (if you're using virtualenv or venv)
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore log files and data files (customize as needed)
+*.log
+*.csv
+*.json
+*.h5
+*.pickle
+
+# Ignore model checkpoints and trained model files (customize as needed)
+*.ckpt
+*.pth
+
+# Ignore Jupyter Notebook checkpoints (if you use Jupyter)
+.ipynb_checkpoints/
+
+# Ignore user-specific files and configurations (e.g., editor/IDE settings)
+.vscode/
+.idea/
+*.swp
+
+# Ignore environment-specific files
+.env
+
+# Ignore data directories (customize as needed)
+data/
+data_raw/
+data_processed/
+
+# Ignore output directories (customize as needed)
+output/
+results/
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore compiled files (e.g., Cython)
+*.so
+*.pyd
+
+# Ignore system-specific folders and files
+__MACOSX/
+Thumbs.db
+.DS_Store
+
+# Ignore any other project-specific files or directories
+# Add them below this line if needed

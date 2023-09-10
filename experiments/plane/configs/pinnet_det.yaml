@@ -1,0 +1,22 @@
+convonet-cfg:
+  encoder-hidden-dim: 256
+  encoder-input-dim: 3
+  encoder-output-dim: 128
+  grid-resolution: 48
+  n-blocks: 5
+  name: convonet
+  padding: 0.1
+  plane-resolution: 32
+  plane-type: grid
+  scatter-type: max
+  unet: false
+  unet-3d: true
+decoder-block-n: 5
+decoder-desc-out-dim: 768
+decoder-desc-type: field
+decoder-hidden-dim: 256
+decoder-leaky: false
+decoder-sal-out-dim: 1
+deocder-sigmoid: true
+dim-desc: 128
+name: pinnet_det
