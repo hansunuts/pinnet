@@ -18,7 +18,7 @@ from datasets.augmentations import random_rotation, add_gaussian_noise
 # ==============================
 # Parameters:
 exp_name = 'plane'
-model_name = 'best_model.pth' 
+model_name = 'plane.pth' 
 
 # pc
 point_num = 10000

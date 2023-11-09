@@ -1,8 +1,10 @@
 # Pinnet
 
 ## Setup environment
+```
 conda env create -f environment.yml
 conda activate pinnet
+```
 
 ## Download Kp3D dataset
 Coming soon.
@@ -14,4 +16,6 @@ Copy pretrained model to corresponding experiment folder. Eg. copy plane.pth to 
 
 Currently only pretrained model for plane category is available. More pretrained model will be available soon.
 
+```
 python sandbox/vis_kps3d.py
+```
