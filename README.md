@@ -21,12 +21,12 @@ conda activate pinnet
 #### Download Kp3D Dataset
 Coming soon.
 #### Sample Data
-You can find some sample data under \sample_data
+You can find some sample data under \sample_data\
 
 ### Download Pretrained Model
 1. Download pretrained model from https://drive.google.com/drive/folders/1rnZzZ1lO5lO-R0kCxpuRnCl0LhXLv3b1?usp=sharing
 
-2. Copy pretrained model to corresponding experiment folder. Eg. copy plane.pth to experiments/plane
+2. Copy pretrained model to corresponding experiment folder. Eg. copy plane.pth to \experiments\plane\
 
 Currently only pretrained model for plane category is available. More pretrained model will be available soon.
 
